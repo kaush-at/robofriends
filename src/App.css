@@ -1,0 +1,19 @@
+@font-face {
+font-family: 'SEGA LOGO FONT';
+font-style: normal;
+font-weight: normal;
+src: local('SEGA LOGO FONT'), url('SEGA.woff') format('woff');
+}
+
+h1{
+    font-family: 'SEGA LOGO FONT';
+    font-weight: 200;
+    color:aquamarine;
+}
+
+/* @font-face {
+    font-family:"Alice";
+    font-weight:normal;
+    font-style:normal;
+    src:url("Alice.woff") format("woff"),;
+} */
